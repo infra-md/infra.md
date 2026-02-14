@@ -5,6 +5,9 @@
 Create a repository-level file called **INFRA.md** that describes the
 *infrastructure intent* of an application in human-readable Markdown.
 
+For common questions, see [FAQ.md](FAQ.md) or the rendered page
+[faq.html](faq.html).
+
 The goal is to use AI as a bridge between:
 
 - Infrastructure intent (`INFRA.md`)
